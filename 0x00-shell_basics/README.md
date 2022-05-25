@@ -1,0 +1,1 @@
+Each script is printing output
